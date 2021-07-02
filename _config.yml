@@ -16,7 +16,7 @@
 title: NITCyber
 author: "NITcyber"
 email: ""
-description: Cyber Security Enthusiast
+description: I'am a Cyber Security Enthusiast
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "nitcyber.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,10 +24,10 @@ url: "nitcyber.com" # the base hostname & protocol for your site, e.g. http://ex
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: ""
+# github_username: ""
 facebook_username: "nitcyber"
-twitter_username: ""
-linkedin_id: ""
+# twitter_username: ""
+# linkedin_id: ""
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.png"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: "I'am a Cyber Security Enthusiast"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
