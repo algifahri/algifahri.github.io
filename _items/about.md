@@ -10,6 +10,6 @@ Cerdas dan beretika dalam menggunakan teknologi!!
 
 ## Contact
 Kamu dapat menghubungi NITCyber di:
-* Website : <https://nitcyber.com/>
-* Youtube : <https://www.youtube.com/channel/UCv0M6Q8Z2FsQyWSQxxsj9dQ>
-* Facebook : <https://www.facebook.com/nitcyber>
+* [Website](https://nitcyber.com/ "NITCyber Website")
+* [Youtube](https://www.youtube.com/channel/UCv0M6Q8Z2FsQyWSQxxsj9dQ "Channel Youtube Official NITCyber")
+* [Facebook](https://www.facebook.com/nitcyber "Halaman Facebook NITCyber")
